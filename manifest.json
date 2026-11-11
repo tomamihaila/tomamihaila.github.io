@@ -1,6 +1,6 @@
 {
-  "name": "Expense Tracker",
-  "short_name": "Expenses",
+  "name": "Leiron - Expense Tracker",
+  "short_name": "Leiron",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
